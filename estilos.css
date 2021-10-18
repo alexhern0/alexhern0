@@ -1,6 +1,7 @@
+.nomber{
+    color: #560bad;
+    
+}
 .logo{
-    font-size: 20px;
-    font-weight: 700;
-    color: blue;
-    text-decoration: none;
+    max-width: 80px;
 }
